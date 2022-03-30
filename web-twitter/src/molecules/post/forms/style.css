@@ -1,0 +1,32 @@
+.form__button--submit {
+	display: flex;
+	flex-direction: row-reverse;
+	margin: 0.5rem 0;
+}
+
+@media (min-width: 768px) {
+	.form__button--submit > button {
+		min-width: 10rem;
+		max-width: fit-content;
+	}
+}
+
+@media (max-width: 767px) {
+	.form__button--submit > button {
+		min-width: 7rem;
+	}
+}
+
+.input__textarea {
+	display: flex;
+	flex-direction: column;
+	margin-top: 0.5rem;
+}
+
+.input__textarea > textarea {
+	resize: none;
+}
+
+.input__textarea > label {
+	font-weight: 600;
+}
