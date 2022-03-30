@@ -1,0 +1,10 @@
+.list-item {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.list-item--selected {
+	background-color: #222;
+	color: white;
+}

@@ -1,0 +1,9 @@
+.post {
+	width: 100%;
+}
+.post--title {
+	display: flex;
+	align-items: baseline;
+	justify-content: space-between;
+	margin-bottom: 0.25rem;
+}
