@@ -1,0 +1,7 @@
+@media (max-width: 767px) {
+	.timeline {
+		display: flex;
+		flex-direction: column-reverse;
+		margin-bottom: 0.5rem;
+	}
+}
