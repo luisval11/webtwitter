@@ -1,0 +1,232 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on TimelineMessages should match initial snapshot for TimelineMessages 1`] = `
+<div>
+  <div
+    class="timeline"
+  >
+    <div
+      class="list"
+    >
+      <h6>
+        Timeline
+      </h6>
+      <div
+        aria-labelledby="post"
+        class="list-group"
+        role="list"
+      >
+        <div
+          class="list-item list-group-item"
+          role="listitem"
+        >
+          <div
+            class="post card"
+          >
+            <div
+              class="card-body"
+            >
+              <div
+                class="post--title"
+              >
+                <div
+                  class="m-0 card-title h5"
+                >
+                  Alice
+                </div>
+                <span>
+                  30 mar
+                </span>
+              </div>
+              <p
+                class="mb-0 card-text"
+              >
+                Lorem ipsum content large
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="list-item list-group-item"
+          role="listitem"
+        >
+          <div
+            class="post card"
+          >
+            <div
+              class="card-body"
+            >
+              <div
+                class="post--title"
+              >
+                <div
+                  class="m-0 card-title h5"
+                >
+                  Bob
+                </div>
+                <span>
+                  30 mar
+                </span>
+              </div>
+              <p
+                class="mb-0 card-text"
+              >
+                Lorem ipsum content large 1
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="list-item list-group-item"
+          role="listitem"
+        >
+          <div
+            class="post card"
+          >
+            <div
+              class="card-body"
+            >
+              <div
+                class="post--title"
+              >
+                <div
+                  class="m-0 card-title h5"
+                >
+                  Mike
+                </div>
+                <span>
+                  29 mar
+                </span>
+              </div>
+              <p
+                class="mb-0 card-text"
+              >
+                Lorem ipsum content large 2
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="list-item list-group-item"
+          role="listitem"
+        >
+          <div
+            class="post card"
+          >
+            <div
+              class="card-body"
+            >
+              <div
+                class="post--title"
+              >
+                <div
+                  class="m-0 card-title h5"
+                >
+                  Beatriz
+                </div>
+                <span>
+                  27 mar
+                </span>
+              </div>
+              <p
+                class="mb-0 card-text"
+              >
+                Lorem ipsum content large 5
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="list-item list-group-item"
+          role="listitem"
+        >
+          <div
+            class="post card"
+          >
+            <div
+              class="card-body"
+            >
+              <div
+                class="post--title"
+              >
+                <div
+                  class="m-0 card-title h5"
+                >
+                  Jenny
+                </div>
+                <span>
+                  26 mar
+                </span>
+              </div>
+              <p
+                class="mb-0 card-text"
+              >
+                Lorem ipsum content large 6
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="list-item list-group-item"
+          role="listitem"
+        >
+          <div
+            class="post card"
+          >
+            <div
+              class="card-body"
+            >
+              <div
+                class="post--title"
+              >
+                <div
+                  class="m-0 card-title h5"
+                >
+                  Ben
+                </div>
+                <span>
+                  25 mar
+                </span>
+              </div>
+              <p
+                class="mb-0 card-text"
+              >
+                Lorem ipsum content large 7
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <form
+      class=""
+    >
+      <div
+        class="input__textarea"
+      >
+        <label
+          class="form-label"
+          for="content"
+        >
+          Post a new message
+        </label>
+        <textarea
+          class="form-control"
+          id="content"
+          role="textarea"
+        />
+      </div>
+      <div
+        class="form__button--submit"
+      >
+        <button
+          class="btn btn-primary"
+          type="button"
+        >
+          Post
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+`;
