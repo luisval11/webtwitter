@@ -1,0 +1,122 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on AddPostForm should match initial snapshot for AddPostForm 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <form
+        class=""
+      >
+        <div
+          class="input__textarea"
+        >
+          <label
+            class="form-label"
+            for="content"
+          >
+            Post a new message
+          </label>
+          <textarea
+            class="form-control"
+            id="content"
+            role="textarea"
+          />
+        </div>
+        <div
+          class="form__button--submit"
+        >
+          <button
+            class="btn btn-primary"
+            type="button"
+          >
+            Post
+          </button>
+        </div>
+      </form>
+    </div>
+  </body>,
+  "container": <div>
+    <form
+      class=""
+    >
+      <div
+        class="input__textarea"
+      >
+        <label
+          class="form-label"
+          for="content"
+        >
+          Post a new message
+        </label>
+        <textarea
+          class="form-control"
+          id="content"
+          role="textarea"
+        />
+      </div>
+      <div
+        class="form__button--submit"
+      >
+        <button
+          class="btn btn-primary"
+          type="button"
+        >
+          Post
+        </button>
+      </div>
+    </form>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
