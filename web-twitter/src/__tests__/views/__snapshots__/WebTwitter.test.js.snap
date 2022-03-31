@@ -1,0 +1,360 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on WebTwitter should match initial snapshot 1`] = `
+<div
+  className="container-fluid"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col-md-4"
+    >
+      <div
+        className="list"
+      >
+        <h6>
+          Following
+        </h6>
+        <div
+          aria-labelledby="user"
+          className="list-group"
+          onKeyDown={[Function]}
+          role="list"
+        >
+          <div
+            className="list-item list-group-item"
+            data-rr-ui-event-key={null}
+            onClick={[Function]}
+            role="listitem"
+          >
+            <div
+              className="user"
+            >
+              <span>
+                Alice
+              </span>
+              <button
+                className="btn btn-secondary"
+                disabled={false}
+                onClick={[Function]}
+                type="button"
+              >
+                Unfollow
+              </button>
+            </div>
+          </div>
+          <div
+            className="list-item list-group-item"
+            data-rr-ui-event-key={null}
+            onClick={[Function]}
+            role="listitem"
+          >
+            <div
+              className="user"
+            >
+              <span>
+                Bob
+              </span>
+              <button
+                className="btn btn-secondary"
+                disabled={false}
+                onClick={[Function]}
+                type="button"
+              >
+                Unfollow
+              </button>
+            </div>
+          </div>
+          <div
+            className="list-item list-group-item"
+            data-rr-ui-event-key={null}
+            onClick={[Function]}
+            role="listitem"
+          >
+            <div
+              className="user"
+            >
+              <span>
+                Mike
+              </span>
+              <button
+                className="btn btn-secondary"
+                disabled={false}
+                onClick={[Function]}
+                type="button"
+              >
+                Unfollow
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="list"
+      >
+        <h6>
+          Follow
+        </h6>
+        <div
+          aria-labelledby="user"
+          className="list-group"
+          onKeyDown={[Function]}
+          role="list"
+        >
+          <div
+            className="list-item list-group-item"
+            data-rr-ui-event-key={null}
+            onClick={[Function]}
+            role="listitem"
+          >
+            <div
+              className="user"
+            >
+              <span>
+                Beatriz
+              </span>
+              <button
+                className="btn btn-primary"
+                disabled={false}
+                onClick={[Function]}
+                type="button"
+              >
+                Follow
+              </button>
+            </div>
+          </div>
+          <div
+            className="list-item list-group-item"
+            data-rr-ui-event-key={null}
+            onClick={[Function]}
+            role="listitem"
+          >
+            <div
+              className="user"
+            >
+              <span>
+                Ben
+              </span>
+              <button
+                className="btn btn-primary"
+                disabled={false}
+                onClick={[Function]}
+                type="button"
+              >
+                Follow
+              </button>
+            </div>
+          </div>
+          <div
+            className="list-item list-group-item"
+            data-rr-ui-event-key={null}
+            onClick={[Function]}
+            role="listitem"
+          >
+            <div
+              className="user"
+            >
+              <span>
+                Jenny
+              </span>
+              <button
+                className="btn btn-primary"
+                disabled={false}
+                onClick={[Function]}
+                type="button"
+              >
+                Follow
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="col-md-8"
+    >
+      <div
+        className="timeline"
+      >
+        <div
+          className="list"
+        >
+          <h6>
+            Timeline
+          </h6>
+          <div
+            aria-labelledby="post"
+            className="list-group"
+            onKeyDown={[Function]}
+            role="list"
+          >
+            <div
+              className="list-item list-group-item"
+              data-rr-ui-event-key={null}
+              onClick={[Function]}
+              role="listitem"
+            >
+              <div
+                className="post card"
+              >
+                <div
+                  className="card-body"
+                >
+                  <div
+                    className="post--title"
+                  >
+                    <div
+                      className="m-0 card-title h5"
+                    >
+                      Alice
+                    </div>
+                    <span>
+                      30 mar
+                    </span>
+                  </div>
+                  <p
+                    className="mb-0 card-text"
+                  >
+                    Lorem ipsum content large
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div
+              className="list-item list-group-item"
+              data-rr-ui-event-key={null}
+              onClick={[Function]}
+              role="listitem"
+            >
+              <div
+                className="post card"
+              >
+                <div
+                  className="card-body"
+                >
+                  <div
+                    className="post--title"
+                  >
+                    <div
+                      className="m-0 card-title h5"
+                    >
+                      Bob
+                    </div>
+                    <span>
+                      30 mar
+                    </span>
+                  </div>
+                  <p
+                    className="mb-0 card-text"
+                  >
+                    Lorem ipsum content large 1
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div
+              className="list-item list-group-item"
+              data-rr-ui-event-key={null}
+              onClick={[Function]}
+              role="listitem"
+            >
+              <div
+                className="post card"
+              >
+                <div
+                  className="card-body"
+                >
+                  <div
+                    className="post--title"
+                  >
+                    <div
+                      className="m-0 card-title h5"
+                    >
+                      Mike
+                    </div>
+                    <span>
+                      29 mar
+                    </span>
+                  </div>
+                  <p
+                    className="mb-0 card-text"
+                  >
+                    Lorem ipsum content large 2
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div
+              className="list-item list-group-item"
+              data-rr-ui-event-key={null}
+              onClick={[Function]}
+              role="listitem"
+            >
+              <div
+                className="post card"
+              >
+                <div
+                  className="card-body"
+                >
+                  <div
+                    className="post--title"
+                  >
+                    <div
+                      className="m-0 card-title h5"
+                    >
+                      Me
+                    </div>
+                    <span>
+                      28 mar
+                    </span>
+                  </div>
+                  <p
+                    className="mb-0 card-text"
+                  >
+                    Lorem ipsum content large 3
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <form
+          className=""
+          onSubmit={[Function]}
+        >
+          <div
+            className="input__textarea"
+          >
+            <label
+              className="form-label"
+              htmlFor="content"
+            >
+              Post a new message
+            </label>
+            <textarea
+              className="form-control"
+              id="content"
+              onChange={[Function]}
+              role="textarea"
+              value=""
+            />
+          </div>
+          <div
+            className="form__button--submit"
+          >
+            <button
+              className="btn btn-primary"
+              disabled={false}
+              onClick={[Function]}
+              type="button"
+            >
+              Post
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+`;
