@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on InputStyled should match initial snapshot 1`] = `
+<div
+  className="input__textarea"
+>
+  <textarea
+    className="form-control"
+    id="content"
+    onChange={[Function]}
+  />
+</div>
+`;
+
+exports[`Test on InputStyled with Label should match initial snapshot 1`] = `
+<div>
+  <label
+    className="form-label"
+    htmlFor="content"
+  >
+    A single Label
+  </label>
+  <textarea
+    className="form-control"
+    id="content"
+    onChange={[Function]}
+  />
+</div>
+`;
