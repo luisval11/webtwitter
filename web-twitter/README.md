@@ -9,8 +9,8 @@ In order to deploy successfully this project, it requires to to follow this step
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
+# deploy
+npm start
 ```
 
 3. Access to http://localhost:3000 through a web browser to reach the application.
